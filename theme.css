@@ -17,7 +17,8 @@ html {
 }
 
 body { 
-  font-family: Source Sans Pro, sans-serif;
+/*   font-family: Source Sans Pro, sans-serif; */
+  font-family: Georgia, serif;
   color: #000;
   background-color: #ffffff; 
   text-align:left; /* for IE */
